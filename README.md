@@ -1,5 +1,5 @@
 <h1>Photofolio Application</h1>
-This is an online photo album project from coding ninjas, where an user can create his/her album and add pictures to it.
+This is an online photo album project from coding ninjas, where an user can create his/her album and add pictures to it. [Live] (https://clinquant-croquembouche-6527fa.netlify.app/)
 
 <h2>Installation</h2>
 To run this code on your machine
